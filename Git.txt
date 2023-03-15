@@ -1,0 +1,29 @@
+Git Gestion des versions a installé en local
+Github/GitLab plateforme en ligne
+git init
+git add nom du fichier à modifier ou git add espace. modif projet
+extension md= MARKDOWN
+git status: verifier l'état d'avancement
+git commit -m "first commit" passage au remote
+retour d'un commit avec l'id du commit
+git log // historique
+fichier rouge (n'ai pas dans la zone intermédière" 
+fichier vert (passage repository)
+git config --global user.email "mail"
+git config --global user.name "username"
+git branch -M main création master
+push tala3
+pull thabet
+les configs entre local et remote meme nom de dossier
+git remote une seule fois
+git clone https://github.com/Jamilasassi/formation.git //ta3tik copie mel projet
+fork copie en ligne (git fork) fork pour stocker un projet dans mon github
+clone copie en local (git clone) 
+git clone une seule fois si l'url change dc 2eme clone
+token authentif avec git
+git rm nom fichier remove
+git status/ git add/git commit/git rm
+git add/ commit /push pour mettre à jour suppression si on a fait push
+gitLab/devops nb illimité projet
+github limité/partage info "education"
+reset commit: SUPP COMMIT+
