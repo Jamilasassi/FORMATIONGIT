@@ -27,3 +27,6 @@ git add/ commit /push pour mettre à jour suppression si on a fait push
 gitLab/devops nb illimité projet
 github limité/partage info "education"
 reset commit: SUPP COMMIT+
+git branch nom branch creation branch
+git checkout nom branch pour pointer sur branch specifique
+git branch historique de branch
